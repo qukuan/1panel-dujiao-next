@@ -12,7 +12,9 @@
 
 #### 📷 视频教程（保姆级）一看就会
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-点击观看视频-blue?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1dMP3znE1i/)
+[![Bilibili](https://img.shields.io/badge/Bilibili-国内网点击观看blibli视频教程-blue?style=for-the-badge&logo=bilibili)](https://www.bilibili.com/video/BV1dMP3znE1i/)
+
+[![YouTube Video](https://img.youtube.com/vi/Mv946RQJmrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Mv946RQJmrY)
 
 ---
 
