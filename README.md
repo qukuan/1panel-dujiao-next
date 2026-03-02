@@ -12,7 +12,7 @@
 
 #### 📷 视频教程（保姆级）一看就会
 
-[![视频教程](http://img.youtube.com/vi/Mv946RQJmrY/0.jpg)](https://youtu.be/Mv946RQJmrY?feature=shared)
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=116155914127336&bvid=BV1dMP3znE1i&cid=36384671574&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 ---
 
