@@ -11,7 +11,7 @@
 #### 注意⚠️
 本篇是1Panel面板部署独角Dujiao-Next教程，和宝塔不一样，不要弄混了！
 
-宝塔Docker部署教程移步到仓库👉 [![GitHub Repo](https://img.shields.io/github/repo-size/qukuan/aapanel-dujiao-next?logo=github&label=Repo)](https://github.com/qukuan/aapanel-dujiao-next)
+宝塔Docker部署教程移步到点击移步到仓库：[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/qukuan/1panel-dujiao-next)
 
 ---
 
