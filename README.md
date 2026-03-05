@@ -8,6 +8,11 @@
 `admin 管理前端` 
 `api后端`
 
+#### 注意⚠️
+本篇是1Panel面板部署独角Dujiao-Next教程，和宝塔不一样，不要弄混了！
+
+宝塔Docker部署教程移步到仓库👉 [![GitHub Repo](https://img.shields.io/github/repo-size/qukuan/aapanel-dujiao-next?logo=github&label=Repo)](https://github.com/qukuan/aapanel-dujiao-next)
+
 ---
 
 #### 📷 视频教程（保姆级）一看就会
