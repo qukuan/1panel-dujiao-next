@@ -147,3 +147,14 @@ docker compose --env-file .env -f docker-compose.postgres.yml logs -f api
 docker compose --env-file .env -f docker-compose.postgres.yml down
 ```
 重新修改好配置文件后，再次执行启动命令即可！
+
+### 版本有更新🆕
+先拉取官方最新版本镜像：
+```
+docker compose -f docker-compose.postgres.yml pull
+```
+
+再继续执行重启：
+```
+docker compose --env-file .env -f docker-compose.postgres.yml up -d
+```
